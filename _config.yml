@@ -6,13 +6,13 @@ url: "https://jimmykrdev.github.io" # the base hostname & protocol for your site
 
 # User settings
 username: Jimmy
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: Developer
 user_title: Developer
 email: kimppangdev@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+disqus_username: disqus_pCIDIJovBS
 
 # Build settings
 markdown: kramdown
