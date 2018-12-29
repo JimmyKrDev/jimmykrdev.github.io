@@ -15,6 +15,7 @@
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
         var ldr = document.getElementById('disqus_loader');
+        console.log(dsq)
     };
     window.onscroll = function(e) {
         if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800)) {
